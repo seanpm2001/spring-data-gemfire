@@ -25,7 +25,7 @@
 		<gemfire.version>9.9.1</gemfire.version>
 		<google-code-findbugs.version>2.0.2</google-code-findbugs.version>
 		<multithreadedtc.version>1.01</multithreadedtc.version>
-		<snappy.version>0.4</snappy.version>
+		<snappy.version>0.5</snappy.version>
 		<springdata.commons>2.3.0.BUILD-SNAPSHOT</springdata.commons>
 		<spring-shell.version>1.2.0.RELEASE</spring-shell.version>
 	</properties>
